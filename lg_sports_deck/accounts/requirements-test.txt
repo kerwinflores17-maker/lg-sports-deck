@@ -1,0 +1,3 @@
+# Internal development tests only, not a production dependency lockfile.
+-r ../core/requirements-test.txt
+argon2-cffi==25.1.0

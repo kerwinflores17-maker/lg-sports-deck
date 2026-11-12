@@ -1,0 +1,5 @@
+# Local INTERNAL testing only; not a production dependency lockfile.
+-r ../staging/requirements.txt
+pytest==9.0.3
+httpx==0.28.1
+imageio-ffmpeg==0.6.0

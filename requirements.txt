@@ -1,0 +1,8 @@
+# Versions used for the Phase 1 prototype verification.
+fastapi==0.162.0
+uvicorn==0.54.0
+python-multipart==0.0.32
+itsdangerous==2.2.0
+Jinja2==3.1.6
+Pillow==12.3.0
+imageio-ffmpeg==0.7.0

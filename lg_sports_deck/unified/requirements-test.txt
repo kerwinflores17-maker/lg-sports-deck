@@ -1,0 +1,5 @@
+# Internal development only; not a production dependency lockfile.
+-r ../accounts/requirements-test.txt
+# Local QR generation for the fictional integration test.
+qrcode==8.2
+Pillow==11.3.0
